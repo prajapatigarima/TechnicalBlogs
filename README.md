@@ -1,2 +1,3 @@
 # Write-Ups 
-I like to write
+I am always looking for new ways to learn about software development.
+
